@@ -1,3 +1,8 @@
+=begin
+Name: Curtis Kauer
+Bicycle class refactoring
+=end
+
 class Bicycle
     # ...
   end
